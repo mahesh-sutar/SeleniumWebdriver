@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2ec026b-8c12-473d-8c5c-70e4855803ad" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/drivers/chromedriver_77.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drivers/chromedriver_78.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/alertHandling/AlertPopUpHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/dragDropActions/DragDropElement_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/dragDropActions/DragDropElement_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/mouseActions/MouseHover.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/windowHandling/HandleWindows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/windowHandling/HandleWindows.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,7 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -28,11 +28,59 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HandleWindows.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HandleWindows.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/windowHandling/HandleWindows.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+            <state relative-caret-position="234">
+              <caret line="24" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AlertPopUpHandle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/alertHandling/AlertPopUpHandle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="24" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DragDropElement_1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/dragDropActions/DragDropElement_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="44" column="59" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="44" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DragDropElement_2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/dragDropActions/DragDropElement_2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="21" selection-end-column="72" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MouseHover.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/mouseActions/MouseHover.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="40" column="75" selection-start-line="40" selection-start-column="75" selection-end-line="40" selection-end-column="75" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -58,6 +106,11 @@
         <option value="$PROJECT_DIR$/src/test/java/com/automation/HandleWindows.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/automation/windowHandling/HandleWindows.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/automation/alertHandling/AlertPopUpHandle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/automation/dragDropElement/DragDropElement_1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/automation/dragDropElement/DragDropElement_2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/automation/dragDropActions/DragDropElement_2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/automation/mouseActions/MouseHover.java" />
       </list>
     </option>
   </component>
@@ -73,6 +126,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,7 +172,34 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="automation" type="462c0819:PsiDirectoryNode" />
+              <item name="alertHandling" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumWebdriver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumWebdriver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="automation" type="462c0819:PsiDirectoryNode" />
+              <item name="dragDropActions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumWebdriver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumWebdriver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="automation" type="462c0819:PsiDirectoryNode" />
               <item name="iFrameHandling" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumWebdriver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumWebdriver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="automation" type="462c0819:PsiDirectoryNode" />
+              <item name="mouseActions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SeleniumWebdriver" type="b2602c69:ProjectViewProjectNode" />
@@ -133,9 +214,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -158,7 +238,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.MouseHover.testMouseHoverAction">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -178,20 +258,136 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="HandleWindows.testHandleWindows" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="AlertPopUpHandle" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumWebdriver" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.automation.windowHandling.*" />
+          <option name="PATTERN" value="com.automation.alertHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.automation.windowHandling" />
-      <option name="MAIN_CLASS_NAME" value="com.automation.windowHandling.HandleWindows" />
-      <option name="METHOD_NAME" value="testHandleWindows" />
+      <option name="PACKAGE_NAME" value="com.automation.alertHandling" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.alertHandling.AlertPopUpHandle" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="AlertPopUpHandle.testAlertPopUpHandle" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWebdriver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.alertHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.automation.alertHandling" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.alertHandling.AlertPopUpHandle" />
+      <option name="METHOD_NAME" value="testAlertPopUpHandle" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="DragDropElement_1.testDragDropElement" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWebdriver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.dragDropActions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.automation.dragDropElement" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.dragDropActions.DragDropElement_1" />
+      <option name="METHOD_NAME" value="testDragDropElement" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="DragDropElement_2.testDragDropElement" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWebdriver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.dragDropActions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.automation.dragDropElement" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.dragDropActions.DragDropElement_2" />
+      <option name="METHOD_NAME" value="testDragDropElement" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="MouseHover.testMouseHoverAction" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWebdriver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.mouseActions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.automation.mouseActions" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.mouseActions.MouseHover" />
+      <option name="METHOD_NAME" value="testMouseHoverAction" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -229,9 +425,20 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="TestNG.AlertPopUpHandle" />
+      <item itemvalue="TestNG.AlertPopUpHandle.testAlertPopUpHandle" />
+      <item itemvalue="TestNG.DragDropElement_1.testDragDropElement" />
+      <item itemvalue="TestNG.DragDropElement_2.testDragDropElement" />
+      <item itemvalue="TestNG.MouseHover.testMouseHoverAction" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.HandleWindows.testHandleWindows" />
+        <item itemvalue="TestNG.MouseHover.testMouseHoverAction" />
+        <item itemvalue="TestNG.DragDropElement_2.testDragDropElement" />
+        <item itemvalue="TestNG.DragDropElement_1.testDragDropElement" />
+        <item itemvalue="TestNG.AlertPopUpHandle.testAlertPopUpHandle" />
+        <item itemvalue="TestNG.AlertPopUpHandle" />
       </list>
     </recent_temporary>
   </component>
@@ -260,69 +467,91 @@
       <option name="project" value="LOCAL" />
       <updated>1569640539281</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commiting code">
+      <created>1569661595505</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569661595505</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HandleWindows_testHandleWindows - 2019.09.28 at 13h 54m 49s.xml">
-      <configuration name="HandleWindows.testHandleWindows" configurationId="TestNG" />
+    <history-entry file="AlertPopUpHandle_testAlertPopUpHandle - 2019.09.28 at 19h 05m 06s.xml">
+      <configuration name="AlertPopUpHandle.testAlertPopUpHandle" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HandleWindows_testHandleWindows - 2019.09.28 at 13h 56m 38s.xml">
-      <configuration name="HandleWindows.testHandleWindows" configurationId="TestNG" />
+    <history-entry file="DragDropElement_1_testDragDropElement - 2019.09.28 at 19h 17m 29s.xml">
+      <configuration name="DragDropElement_1.testDragDropElement" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HandleWindows_testHandleWindows - 2019.09.28 at 14h 05m 04s.xml">
-      <configuration name="HandleWindows.testHandleWindows" configurationId="TestNG" />
+    <history-entry file="DragDropElement_1_testDragDropElement - 2019.09.28 at 19h 20m 44s.xml">
+      <configuration name="DragDropElement_1.testDragDropElement" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HandleWindows_testHandleWindows - 2019.09.28 at 14h 17m 21s.xml">
-      <configuration name="HandleWindows.testHandleWindows" configurationId="TestNG" />
+    <history-entry file="DragDropElement_2_testDragDropElement - 2019.09.28 at 19h 26m 40s.xml">
+      <configuration name="DragDropElement_2.testDragDropElement" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HandleWindows_testHandleWindows - 2019.09.28 at 14h 33m 24s.xml">
-      <configuration name="HandleWindows.testHandleWindows" configurationId="TestNG" />
+    <history-entry file="DragDropElement_2_testDragDropElement - 2019.09.28 at 19h 27m 35s.xml">
+      <configuration name="DragDropElement_2.testDragDropElement" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MouseHover_testMouseHoverAction - 2019.09.28 at 19h 40m 06s.xml">
+      <configuration name="MouseHover.testMouseHoverAction" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MouseHover_testMouseHoverAction - 2019.09.28 at 19h 41m 59s.xml">
+      <configuration name="MouseHover.testMouseHoverAction" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MouseHover_testMouseHoverAction - 2019.09.28 at 19h 44m 51s.xml">
+      <configuration name="MouseHover.testMouseHoverAction" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MouseHover_testMouseHoverAction - 2019.09.28 at 19h 50m 12s.xml">
+      <configuration name="MouseHover.testMouseHoverAction" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MouseHover_testMouseHoverAction - 2019.09.28 at 19h 54m 35s.xml">
+      <configuration name="MouseHover.testMouseHoverAction" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32885906" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32885906" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32885906" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.57986575" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25358167" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32885906" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
       <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
@@ -332,9 +561,9 @@
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info id="Capture Tool" order="3" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Messages" order="3" weight="0.32885906" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info id="Favorites" order="4" side_tool="true" />
@@ -346,9 +575,27 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit" />
     <MESSAGE value="Adding HandleFrames.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding HandleFrames.java" />
+    <MESSAGE value="Commiting code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commiting code" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/windowHandling/HandleWindows.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
@@ -365,8 +612,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/windowHandling/HandleWindows.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        <state relative-caret-position="234">
+          <caret line="24" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/alertHandling/AlertPopUpHandle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="24" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/dragDropActions/DragDropElement_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="44" column="59" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="44" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/dragDropActions/DragDropElement_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="21" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/mouseActions/MouseHover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="40" column="75" selection-start-line="40" selection-start-column="75" selection-end-line="40" selection-end-column="75" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
